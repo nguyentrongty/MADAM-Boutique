@@ -1,25 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mxtru\\Documents\\GitHub\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj": {}
+    "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mxtru\\Documents\\GitHub\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj": {
+    "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mxtru\\Documents\\GitHub\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
         "projectName": "MADAM-Boutique",
-        "projectPath": "C:\\Users\\mxtru\\Documents\\GitHub\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
-        "packagesPath": "C:\\Users\\mxtru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mxtru\\Documents\\GitHub\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\obj\\",
+        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\ASP-NhuHoangMinhDuc\\MADAM-Boutique\\MADAM-Boutique\\MADAM-Boutique\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mxtru\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -83,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
